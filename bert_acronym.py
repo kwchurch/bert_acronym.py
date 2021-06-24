@@ -1,5 +1,3 @@
-#!/mnt/home/kwc/venv/my_test/bin/python
-
 import torch
 from transformers import BertForQuestionAnswering
 from transformers import BertTokenizer
