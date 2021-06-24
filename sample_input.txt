@@ -1,0 +1,9 @@
+IF	Under otherwise unchanged conditions the reference substance ifosfamide (IF) -- a further development of cyclophosphamide -- applied without hyperglycemia in its most efficient dosage of 47 percent LD50 (150 mg kg) brought about a recovery rate of 25 percent at a lethality of 18 percent.
+CPZ	This work contains the results of a study performed with these three compounds, in order to demonstrate their neuropsycholeptic activity in comparison with chloropromazine (CPZ) and chlordiazepoxide (CPD).
+CPD	This work contains the results of a study performed with these three compounds, in order to demonstrate their neuropsycholeptic activity in comparison with chloropromazine (CPZ) and chlordiazepoxide (CPD).
+PPP	The effect of the major metabolite of aspirin, namely salicylic acid, upon the pentose phosphate pathway (PPP) of normal and G6PD-deficient red cells has been studied.
+gl	The reaction of glutamate dehydrogenase and glutamate (gl) with NAD+ and NADP+ has been studied with stopped-flow techniques.
+kg	The binding of the coenzyme to (E-gl) is the rate-limiting step in the formation of (E-NAD(P)H-kg) while the dissociation of alpha-ketoglutarate (kg) from this complex is the rate-limiting step in the formation of (E-NAD(P)H-gl).
+S.G.	The method has been applied to the solitary histidine residue of lysozyme, alpha-lytic protease, and Streptomyces griseus (S.G.) trypsin, as well as to the amino terminus of the latter protein.
+CD	The near-ultraviolet circular dichroism (CD) of three homogeneous anti-type III pneumococcal antibodies in the absence and the presence of the specific hexasaccharide ligand was studied.
+CPL	The circular polarization of luminescence (CPL) emitted by tryptophan residues was used as a sensitive probe for measuring ligand-induced structural changes in a homogeneous type III pneumococcal antibody.
