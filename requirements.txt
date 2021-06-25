@@ -1,0 +1,4 @@
+paddlepaddle
+paddlenlp
+torch
+transformers
