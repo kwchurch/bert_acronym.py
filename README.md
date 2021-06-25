@@ -4,4 +4,4 @@ Very simple program to use BERT-SQuAD and ERNIE-SQUAD to find long forms (LFs) f
 PaddlePaddle with ERNIE version
 
     pip install --upgrade paddlepaddle
-    pip install --upgrade paddlenlp
+    pip install --upgrade paddlenlp -i https://pypi.org/simple
