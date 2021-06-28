@@ -7,7 +7,10 @@ Very simple program to use BERT-SQuAD and ERNIE-SQuAD to find long forms (LFs) f
   python ernie_acronym.py < sample_input.txt
   python bert_acronym.py < sample_input.txt
 ```
-This may be helpful:
+
+We have tested on python 3.6.9.  Other versions may work but not tested.
+
+If this does not work, you may try to upgrade pip.  Also, this may help:
 ```shell
   pip install --upgrade paddlenlp -i https://pypi.org/simple
   ```
