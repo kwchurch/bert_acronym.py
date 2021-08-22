@@ -16,5 +16,8 @@ for line in sys.stdin:
     fields = line.rstrip().split("\t")
     if len(fields) >= 2:
         SF, doc = fields[0:2]
-        LF = answer_question("What does {} stand for?".format(SF), doc)[0]
-        print("\t".join([LF, SF, doc]))
+        try:
+            LF = answer_question("What does {} stand for?".format(SF), doc)[0]
+            print("\t".join([LF, SF, doc]))
+        except:
+            print("\t".join(["NA",SF,doc]))
